@@ -27,3 +27,10 @@ git clone https://github.com/your-username/calculator.git
 
 ## Screenshots
 ![ss1](https://github.com/lakshayrao2301/OIBSIP/assets/105383572/820faada-4094-4d0b-9e18-db041425ee33)
+
+EQUATION
+![ss](https://github.com/lakshayrao2301/OIBSIP/assets/105383572/85211ad7-45d2-46f9-8a9a-e9592202f218)
+
+RESULT
+![ss3](https://github.com/lakshayrao2301/OIBSIP/assets/105383572/48ec57b3-815d-4b43-a972-2f8f88f66140)
+
