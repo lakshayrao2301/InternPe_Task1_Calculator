@@ -26,3 +26,4 @@ git clone https://github.com/your-username/calculator.git
 5. Click the "Clear" button to clear the input screen.
 
 ## Screenshots
+![ss1](https://github.com/lakshayrao2301/OIBSIP/assets/105383572/820faada-4094-4d0b-9e18-db041425ee33)
