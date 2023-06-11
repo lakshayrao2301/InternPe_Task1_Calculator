@@ -15,8 +15,8 @@ This is a simple calculator project that allows users to perform basic mathemati
 * JavaScript: For implementing the calculator's functionality.
 ## Usage
 1. Clone the repository:
-
 git clone https://github.com/your-username/calculator.git
+
 2. Open the index.html file in a web browser.
 
 3. Enter numbers and operators using the provided buttons.
